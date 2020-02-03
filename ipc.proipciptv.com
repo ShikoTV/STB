@@ -1,0 +1,25 @@
+http://ipc.proipciptv.com:8000/c/
+00:1A:79:72:F5:5D 
+September 11, 2020, 
+00:1A:79:DD:SD:7E
+June 24, 2020,
+00:1A:79:42:F1:A0 
+January 24, 2020,
+00:1A:79:0B:1B:H3
+March 11, 2020,
+00:1A:79:43:35:C8 
+July 25, 2020, 
+00:1A:79:55:IF:10
+April 11, 2020,
+00:1A:79:3D:C7:8B 
+June 16, 2020, 
+00:1A:79:2B:DA:KF
+August 24, 2020,
+00:1A:79:3B:92:B6 
+March 19, 2020, 
+00:1A:79:0A:OE:FF
+December 2, 2020,
+00:1A:79:DB:4F:T1
+Juli 19, 2020,
+00:1A:79:71:V2:15
+March 27, 2020,
